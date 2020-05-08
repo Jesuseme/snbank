@@ -1,0 +1,2 @@
+ADMIN admin admin@snbank.com Administrator
+CTO ctologin cto@snbank.com John-Smith
