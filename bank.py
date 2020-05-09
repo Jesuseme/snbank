@@ -39,7 +39,7 @@ def main():
         try:
             for i in staff:
                 if staff[username] == staff[i]:
-                    print(f'correct {staff[i]}')
+                    print(f'Welcome {staff[i][2]}')
                     password = input('password: ')
                     if password == staff[i][0]:
                         print('login successful')
